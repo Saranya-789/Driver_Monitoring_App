@@ -15,3 +15,4 @@ This application provides an intuitive and user-friendly interface to visualize 
 ###### npm install react-icons
 ##### 3.Run the application
 ###### npm start
+#### 4.OPen your browser and visit http://localhost:3000 to view the app
