@@ -1,0 +1,24 @@
+body {
+  /* background-image: url('https://images.app.goo.gl/aLFX2PfuxnwmdDvy6'); */
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: rgb(244, 244, 245);
+}
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+.alert-item {
+  /* border: 4px solid rgba(25, 181, 53, 0.05); */
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color:rgb(184, 180, 183);
+}
+
+input, button, label {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
