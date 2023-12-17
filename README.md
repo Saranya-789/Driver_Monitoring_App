@@ -7,12 +7,12 @@ This application provides an intuitive and user-friendly interface to visualize 
 ###### Node.js and npm should be installed
 
 ## Getting Started
-##### 1.Clone the repository
-##### 2.Install Dependencies
+#### 1.Clone the repository
+#### 2.Install Dependencies
 ###### cd path\to\your\desired\directory
 ###### npx create-react-app <file_name>
 ###### npm install moment axios
 ###### npm install react-icons
-##### 3.Run the application
+#### 3.Run the application
 ###### npm start
 #### 4.OPen your browser and visit http://localhost:3000 to view the app
