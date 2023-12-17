@@ -4,12 +4,14 @@ This application provides an intuitive and user-friendly interface to visualize 
 
 ## Prerequisites
 
-Node.js and npm should be installed
+###### Node.js and npm should be installed
 
-### `npm start`
-
+## Getting Started
+##### 1.Clone the repository
+##### 2.Install Dependencies
 ###### cd path\to\your\desired\directory
 ###### npx create-react-app <file_name>
 ###### npm install moment axios
 ###### npm install react-icons
+##### 3.Run the application
 ###### npm start
